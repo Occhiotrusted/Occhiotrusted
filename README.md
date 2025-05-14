@@ -1,52 +1,52 @@
-<h1 align="center">🧠 Occhiotrusted</h1>
-<h3 align="center">Studente in formazione per diventare Software Engineer</h3>
+<h1 align="center">👋 Ciao, sono Occhiotrusted</h1>
+<h3 align="center">🎯 Studente motivato che sta imparando Python per diventare Software Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-blue?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-Active-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-PyCharm%20User-green?style=flat-square&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Python-Beginner-blue?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Attivo-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Editor-PyCharm%20%7C%20VSCode-green?style=flat-square&logo=jetbrains"/>
 </p>
 
 ---
 
-## 🚀 Cosa so fare finora
+## 🧠 Competenze attuali
 
-✔️ Variabili, input, operazioni base  
-✔️ Condizioni (`if`, `elif`, `else`)  
-✔️ Cicli (`for`, `while`)  
-✔️ Liste, funzioni, dizionari  
-✔️ Classi, oggetti, moduli personalizzati  
-✔️ Lettura e scrittura su `.txt` e `.json`  
-✔️ Progetti Python da terminale  
-✔️ Uso base di Git e GitHub
-
----
-
-## 💼 Progetti su GitHub
-
-🔹 [`emulatore_banca`](https://github.com/Occhiotrusted/emulatore_banca)  
-Simulatore bancario in Python con creazione conto, saldo, deposito e prelievo.
-
-🧪 In arrivo:  
-• To-Do List da terminale  
-• Gestore di appunti  
-• Strumenti Python da riga di comando
+✅ Variabili, input, condizioni  
+✅ Cicli `for` / `while`  
+✅ Liste, dizionari, funzioni  
+✅ Classi, oggetti e moduli personalizzati  
+✅ Lettura/scrittura su file `.txt` e `.json`  
+✅ Creazione di progetti Python da terminale  
+✅ Uso base di Git e GitHub
 
 ---
 
-## 🎯 Obiettivi attuali
+## 🔨 Progetti pubblicati
 
-- 🧠 Migliorare la logica
-- 🛠 Scrivere codice pulito e modulare
-- 📦 Costruire tool realmente utili
-- 🧑‍💻 Prepararmi al mondo del lavoro come software engineer
+### 🏦 [`emulatore_banca`](https://github.com/Occhiotrusted/emulatore_banca)
+Un simulatore bancario da terminale con:
+- Creazione conto
+- PIN personale
+- Depositi, prelievi e saldo
+- Menu interattivo
+
+📁 Strutturato con classi e moduli  
+📄 README e codice ordinato
 
 ---
 
-## ⚙️ Tecnologie e strumenti
+## 🎯 Obiettivi futuri
+
+- 🧠 Migliorare la logica e le basi di Python
+- 📚 Approfondire testing, gestione errori, strutture dati
+- 🛠 Creare piccoli tool da terminale realmente utili
+- 🧑‍💻 Imparare a pensare e programmare da Software Engineer
+
+---
+
+## 📊 Strumenti e linguaggi
 
 ```text
-Python    ▓▓▓▓▓▓▓▓▓░ 90%
-Git       ▓▓▓▓▓▓░░░░ 60%
-Terminal  ▓▓▓▓▓░░░░░ 50%
-
+Python    ▓▓▓▓▓░░░░░ 50%
+Git       ▓▓▓░░░░░░░ 30%
+Terminal  ▓▓▓░░░░░░░ 30%
